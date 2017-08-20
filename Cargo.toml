@@ -1,0 +1,11 @@
+[package]
+name = "trust"
+version = "0.0.0"
+authors = ["Nemo"]
+description = "To increase the degree to which Rust software may rightly be trusted."
+documentation = "https://docs.rs/trust"
+homepage = "https://docs.rs/crate/trust"
+repository = "https://gitlab.com/t-rust/meta"
+license = "Apache-2.0"
+
+[dependencies]
