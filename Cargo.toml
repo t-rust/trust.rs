@@ -7,5 +7,6 @@ documentation = "https://docs.rs/trust"
 homepage = "https://docs.rs/crate/trust"
 repository = "https://gitlab.com/t-rust/trust.rs"
 license = "Apache-2.0"
+readme = "README.md"
 
 [dependencies]
