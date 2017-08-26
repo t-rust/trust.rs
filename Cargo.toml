@@ -1,6 +1,6 @@
 [package]
 name = "trust"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Nemo"]
 description = "To increase the degree to which Rust software may rightly be trusted."
 documentation = "https://docs.rs/trust"
